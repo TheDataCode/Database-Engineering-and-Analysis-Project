@@ -21,5 +21,3 @@ BEGIN
   END IF;
 END//
 DELIMITER ;
-
-CALL AddValidBooking('2022-12-21','T11');
