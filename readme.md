@@ -27,8 +27,12 @@ It is a practical demonstration of my proficiency in SQL and my capacity to deve
     
     
  - #### View, Subquery AND JOIN
-     [Create View, Subquery and Join ](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/data_retrieval_scripts.sql)
+     [View, Subquery and Join ](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/data_retrieval_scripts.sql)
 
 
  - #### Prepared Statement
      [Query Data with Prepared Statement](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/prepared_statement.sql)
+     
+     
+ - #### MySQL/Python Client
+      [Query Data Using MySQL/Python Clent](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/data-retrieval-with-python.ipynb)
