@@ -24,7 +24,7 @@ The database is designed to efficiently store and manage data with optimized que
     [Data Manipulation with Transactions](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/Stored%20Procedure%20with%20Transactions.sql)                                                                       
     
     
- - #### View, Subquery AND JOIN
+ - #### View, Subquery and Join
      [View, Subquery and Join ](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/data_retrieval_scripts.sql)
 
 
