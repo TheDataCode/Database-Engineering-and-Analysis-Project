@@ -36,3 +36,28 @@ It is a practical demonstration of my proficiency in SQL and my capacity to deve
      
  - #### MySQL/Python Connector
       [Query Data Using MySQL/Python Connector](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/data-retrieval-with-python.ipynb)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![restaurant-image](D:\Zainab\image.jpg)
