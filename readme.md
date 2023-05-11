@@ -12,5 +12,12 @@ It is a practical demonstration of my proficiency in SQL and my capacity to deve
 
 
 
+
 - #### Database Schema                                             
     [Schema Script](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/little_restaurant_db.sql)
+
+- #### Stored Procedures
+    [data insertion](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/storedprocedure_insertions.sql)
+    
+- ### 
+- [Select and Cancel Orders](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/stored_procedures.sql)
