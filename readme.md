@@ -15,7 +15,7 @@ The database is designed to efficiently store and manage data with optimized que
     [Schema Script](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/little_restaurant_db.sql)
 
 - #### Stored Procedures
-   ##### Created stored procedures for easy manipulation of data
+   ##### Created stored procedures for efficient data manipulation
     [Data Insertion](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/storedprocedure_insertions.sql)              
     [Select Maximum Order](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/stored_procedures.sql)                  
     [Booking Verification](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/storedProcedure-checkBooking.sql)       
