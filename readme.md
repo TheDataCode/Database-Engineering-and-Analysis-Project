@@ -33,9 +33,9 @@ The database is designed to efficiently store and manage data with optimized que
      
      
  - #### MySQL/Python Connector
-      [Query Data Using MySQL/Python Connector](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/data-retrieval-with-python.ipynb) <br><br><br><br><br><br>
+      [Query Data Using MySQL/Python Connector](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/data-retrieval-with-python.ipynb) <br><br><br><br><br><br><br>
 
 
-
+[photocredit](https://unsplash.com/@_k8_)
 ![image](https://github.com/TheDataCode/Database-Capstone-Project/assets/107037322/1afba8bd-b489-4e54-a909-2d43029859d9)
 
