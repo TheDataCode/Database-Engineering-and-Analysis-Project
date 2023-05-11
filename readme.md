@@ -34,5 +34,5 @@ It is a practical demonstration of my proficiency in SQL and my capacity to deve
      [Query Data with Prepared Statement](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/prepared_statement.sql)
      
      
- - #### MySQL/Python Client
-      [Query Data Using MySQL/Python ClIent](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/data-retrieval-with-python.ipynb)
+ - #### MySQL/Python Connector
+      [Query Data Using MySQL/Python Connector](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/data-retrieval-with-python.ipynb)
