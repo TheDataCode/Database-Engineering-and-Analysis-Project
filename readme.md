@@ -60,4 +60,5 @@ It is a practical demonstration of my proficiency in SQL and my capacity to deve
 
 
 
-![restaurant-image](D:\Zainab\image.jpg)
+![image](https://github.com/TheDataCode/Database-Capstone-Project/assets/107037322/1afba8bd-b489-4e54-a909-2d43029859d9)
+
