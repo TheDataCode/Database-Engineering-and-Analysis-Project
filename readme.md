@@ -17,7 +17,17 @@ It is a practical demonstration of my proficiency in SQL and my capacity to deve
     [Schema Script](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/little_restaurant_db.sql)
 
 - #### Stored Procedures
-    [data insertion](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/storedprocedure_insertions.sql)
+   ##### Created stored procedures for easy manipulation of data
+    [Data Insertion](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/storedprocedure_insertions.sql)
+    [Select Maximum Order](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/stored_procedures.sql)
+    [Booking Verification](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/storedProcedure-checkBooking.sql)
+    [Update Booking](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/storedProcedure-Updates.sql)
+    [Cancel Orders](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/storedProcedure-Delete_statement.sql)
+    [Data Manipulation with Transactions](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/Stored%20Procedure%20with%20Transactions.sql)
     
-- ### 
-- [Select and Cancel Orders](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/stored_procedures.sql)
+    
+ - #### View, Subquery AND JOIN
+     [Create View, Subquery and Join ](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/data_retrieval_scripts.sql)
+     
+ - #### Prepared Statement
+     [Query Data with Prepared Statement](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/prepared_statement.sql)
