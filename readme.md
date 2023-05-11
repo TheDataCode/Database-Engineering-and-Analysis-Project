@@ -35,4 +35,4 @@ It is a practical demonstration of my proficiency in SQL and my capacity to deve
      
      
  - #### MySQL/Python Client
-      [Query Data Using MySQL/Python Clent](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/data-retrieval-with-python.ipynb)
+      [Query Data Using MySQL/Python ClIent](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/data-retrieval-with-python.ipynb)
