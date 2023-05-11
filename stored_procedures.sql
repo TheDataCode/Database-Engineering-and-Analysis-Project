@@ -11,6 +11,6 @@ DELETE FROM itemorder where orderID = orderid;
 SELECT CONCAT('orderID ',orderid,' has been cancelled');
 END //
 DELIMITER ;
-CALL CancelOrder(1);
+
 
 
