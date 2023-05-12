@@ -14,6 +14,11 @@ The database is designed to efficiently store and manage data with optimized que
 - #### Database Schema                                             
     [Schema Script](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/little_restaurant_db.sql)
 
+
+- #### Data Insertions
+    [Insert Statements](https://github.com/TheDataCode/Database-Engineering-and-Analysis-Project/blob/main/insert_script.sql)  
+    
+
 - #### Stored Procedures
    ##### Created stored procedures for efficient data manipulation
     [Data Insertion](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/storedprocedure_insertions.sql)              
@@ -22,7 +27,6 @@ The database is designed to efficiently store and manage data with optimized que
     [Update Booking](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/storedProcedure-Updates.sql)                  
     [Cancel Orders](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/storedProcedure-Delete_statement.sql)           
     [Data Manipulation with Transactions](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/Stored%20Procedure%20with%20Transactions.sql)                                                                       
-    
     
  - #### View, Subquery and Join
      [View, Subquery and Join ](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/data_retrieval_scripts.sql)
