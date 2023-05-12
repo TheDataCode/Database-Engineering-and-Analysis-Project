@@ -1,7 +1,7 @@
 ## Lemon Restaurant Data Modelling and Analysis Project
-This project is a database implementation with relationships, inserted values, and procedural and transactional code. It showcases my skills in database design and programming with a focus on practical applications.                                                     
-Additionally, it incorporates data analysis techniques to gain insights and inform decision-making.<br>                                       
-The database is designed to efficiently store and manage data with optimized queries, and the procedural and transactional code ensures data integrity and consistency.  <br><br><br><br>                                                                                                  
+The project involves the implementation of a database with relationships, inserted values, and procedural and transactional use cases, with a focus on practical applications.
+Moreover, it incorporates data analysis techniques to gain insights and guide decision-making.<br>                                       
+The database is designed to efficiently store and manage data with optimized queries, and the procedural and transactional code ensures data integrity and consistency. <br><br><br><br>                                                                                                  
 
 
 ![database_model](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/lemon_db_schema.png)
