@@ -27,7 +27,9 @@ The database is created to store and manage data efficiently with optimised quer
     [Update Booking](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/storedProcedure-Updates.sql)                  
     [Cancel Orders](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/storedProcedure-Delete_statement.sql) 
     
-    ##### Stored Procedures with Transactions. Using stored procedures with transactions in databases provides a structured and controlled approach to database operations, ensuring data integrity, consistency, and security while promoting code reusability and performance optimisation.                                                                                                                      [Data Manipulation with Transactions](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/Stored%20Procedure%20with%20Transactions.sql)                                                                       
+    ##### Stored Procedures with Transactions. Using stored procedures with transactions in databases provides a structured and controlled approach to database operations, ensuring data integrity, consistency, and security while promoting code reusability and performance optimisation.
+    
+    [Data Manipulation with Transactions](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/Stored%20Procedure%20with%20Transactions.sql)                                                                       
     
  - #### View, Subquery and Join
      [View, Subquery and Join ](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/data_retrieval_scripts.sql)
