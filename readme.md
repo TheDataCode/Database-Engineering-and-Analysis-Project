@@ -43,6 +43,7 @@ The database is created to store and manage data efficiently with optimised quer
       [Query Data Using MySQL/Python Connector](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/data-retrieval-with-python.ipynb) <br><br><br><br><br><br><br>
 
 
-photo-credit: [unsplash](https://unsplash.com/@_k8_)
-![image](https://github.com/TheDataCode/Database-Capstone-Project/assets/107037322/1afba8bd-b489-4e54-a909-2d43029859d9)
+view customer analysis report on [tableau public](https://public.tableau.com/views/RestaurantSalesPerformance/RestaurantSalesPerformance?:language=en-US&:display_count=n&:origin=viz_share_link) <br><br>
+![Restaurant Sales Performance](https://github.com/TheDataCode/Database-Engineering-and-Analysis-Project/assets/107037322/8c486e99-4129-4097-8dbf-c97c08921968)
+
 
