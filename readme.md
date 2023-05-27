@@ -27,15 +27,18 @@ The database is created to store and manage data efficiently with optimised quer
     [Update Booking](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/storedProcedure-Updates.sql)                  
     [Cancel Orders](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/storedProcedure-Delete_statement.sql) 
     
-    ##### Stored Procedures with Transactions. Using stored procedures with transactions in databases provides a structured and controlled approach to database operations, ensuring data integrity, consistency, and security while promoting code reusability and performance optimisation.
+    ##### Stored Procedures with Transactions.                                                                                       
+    Using stored procedures with transactions in databases provides a structured and controlled approach to database operations, ensuring    data integrity, consistency, and security while promoting code reusability and performance optimisation.
     
-    [Data Manipulation with Transactions](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/Stored%20Procedure%20with%20Transactions.sql)                                                                       
+    [Data Manipulation with Transactions](https://github.com/TheDataCode/DatabaseCapstoneProject/blob/main/Stored%20Procedure%20with%20Transactions.sql)                                                                       
     
  - #### View, Subquery and Join
      [View, Subquery and Join ](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/data_retrieval_scripts.sql)
 
 
  - #### Prepared Statement
+ - prepared statements in MySQL offer performance optimisation, protection against SQL injection attacks, increased security, improved       code maintainability and readability, and database portability. They are an essential tool for building secure, efficient, and           maintainable database-driven applications.
+ 
      [Query Data with Prepared Statement](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/prepared_statement.sql)
      
      
