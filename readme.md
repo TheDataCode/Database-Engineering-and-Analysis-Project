@@ -20,13 +20,14 @@ The database is created to store and manage data efficiently with optimised quer
     
 
 - #### Stored Procedures
-   ##### Created stored procedures for efficient data manipulation
+   ##### Created stored procedures for efficient data manipulation 
     [Data Insertion](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/storedprocedure_insertions.sql)              
     [Select Maximum Order](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/stored_procedures.sql)                  
     [Booking Verification](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/storedProcedure-checkBooking.sql)       
     [Update Booking](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/storedProcedure-Updates.sql)                  
-    [Cancel Orders](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/storedProcedure-Delete_statement.sql)           
-    [Data Manipulation with Transactions](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/Stored%20Procedure%20with%20Transactions.sql)                                                                       
+    [Cancel Orders](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/storedProcedure-Delete_statement.sql) 
+    
+    ##### Stored Procedures with Transactions. Using stored procedures with transactions in databases provides a structured and controlled approach to database operations, ensuring data integrity, consistency, and security while promoting code reusability and performance optimisation.                                                                                                                      [Data Manipulation with Transactions](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/Stored%20Procedure%20with%20Transactions.sql)                                                                       
     
  - #### View, Subquery and Join
      [View, Subquery and Join ](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/data_retrieval_scripts.sql)
