@@ -1,13 +1,12 @@
 ## A Restaurant Database Development and Analysis Project
 
 ### INTRODUCTION
-An end-to-end project to address the increasing demand for online services and the growing number of orders at a restaurant.
-As part of this project, comprehensive data analysis will be conducted to gain valuable insights from the existing customer data.      
+An end-to-end project of developing a centralised relational database to accommodate the increasing demand for both in-person and online transactions across several countries.   
+As part of this project, comprehensive data analysis will be conducted to gain valuable insights from the existing data for each country.      
 It involves examining various aspects, such as customer demographics, sales trends, order patterns, and preferences.
 
 ### PROBLEM STATEMENT
-The restaurant currently stores its data in a spreadsheet. With the inclusion of online bookings and orders, there is a need to migrate the data to a relational database management system. This migration is necessary to efficiently streamline operations and accommodate the growing number of customers and online services.
-
+The restaurant currently stores its data in a spreadsheet. With the inclusion of online transactions, there is a need to migrate the data to a relational database management system. This migration is necessary to efficiently streamline the management and coordination of operations across multiple branches
                                                                                                                  
 ### DATABASE DEVELOPMENT AND TESTING
 
