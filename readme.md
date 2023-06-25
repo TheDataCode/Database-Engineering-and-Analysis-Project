@@ -6,7 +6,7 @@ As part of this project, comprehensive data analysis will be conducted to gain v
 It involves examining various aspects, such as customer demographics, sales trends, order patterns, and preferences.
 
 ### PROBLEM STATEMENT
-The restaurant currently stores its data in a spreadsheet. With the inclusion of online transactions, there is a need to migrate the data to a relational database management system. This migration is necessary to efficiently streamline the management and coordination of operations across multiple branches
+The restaurant currently stores its data in a spreadsheet for each branch. To have a centralised database, there is a need to migrate all data across the various branches to a relational database management system. This migration is necessary to efficiently streamline the management and coordination of operations across multiple branches
                                                                                                                  
 ### DATABASE DEVELOPMENT AND TESTING
 
