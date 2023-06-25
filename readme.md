@@ -28,17 +28,18 @@ The restaurant currently stores its data in a spreadsheet. With the inclusion of
     
 
 - ### Stored Procedures
-   #### Created stored procedures for efficient data manipulation 
+  Data manipulation using stored procedures and transactions in a database provide a structured and controlled approach to database operations, ensuring data integrity, consistency, and security while promoting code reusability and performance optimisation.
+    
+   #### Data manipulation using stored procedures 
     [Data Insertion](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/storedprocedure_insertions.sql)              
     [Select Maximum Order](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/stored_procedures.sql)                  
     [Booking Verification](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/storedProcedure-checkBooking.sql)       
     [Update Booking](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/storedProcedure-Updates.sql)                  
     [Cancel Orders](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/storedProcedure-Delete_statement.sql) 
     
-    #### Data Manipulation using Stored Procedures and Transactions.                                                                                      
-    Data manipulation with stored procedures and transactions in databases provide a structured and controlled approach to database operations, ensuring data integrity, consistency, and security while promoting code reusability and performance optimisation.
+    #### Data validation using stored procedures and transactions.                                                                             - verify a booking and decline any reservations for tables that are already booked under another name         
     
-    [Data Validation using Stored Procedures Transactions](https://github.com/TheDataCode/Database-Engineering-and-Analysis-Project/blob/a75dde793ce212761858a880ee23074d98096bc7/Stored%20Procedure%20with%20Transactions.sql)                                                                       
+    [Data Validation using Stored Procedures and Transactions](https://github.com/TheDataCode/Database-Engineering-and-Analysis-Project/blob/a75dde793ce212761858a880ee23074d98096bc7/Stored%20Procedure%20with%20Transactions.sql)                                                                       
     
  - ### View, Subquery and Join
      [View, Subquery and Join ](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/data_retrieval_scripts.sql)
