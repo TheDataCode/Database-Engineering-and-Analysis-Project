@@ -38,7 +38,8 @@ The restaurant currently stores its data in a spreadsheet. With the inclusion of
     [Cancel Orders](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/storedProcedure-Delete_statement.sql) 
     
     #### Data validation using stored procedures and transactions
-  verify a booking and decline any reservations for tables that are already booked under another name         
+  verify a booking and decline any reservations for tables that are already booked under another name
+         
    [Data Validation using Stored Procedures and Transactions](https://github.com/TheDataCode/Database-Engineering-and-Analysis-Project/blob/a75dde793ce212761858a880ee23074d98096bc7/Stored%20Procedure%20with%20Transactions.sql)                                                                       
     
  - ### View, Subquery and Join
@@ -52,7 +53,7 @@ The restaurant currently stores its data in a spreadsheet. With the inclusion of
      
      
  - ### MySQL/Python Connector
-      [Query Data Using MySQL/Python Connector](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/data-retrieval-with-python.ipynb) <br><br><br><br><br>
+      [Query Data Using MySQL/Python Connector](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/data-retrieval-with-python.ipynb) <br><br><br>
 
 ### DATA ANALYSIS 
 Comprehensive data analysis to gain valuable insights from the existing customer data. It involves various aspects, such as sales trends, customer demographics, top-performing customers, order patterns, and preferences. 
