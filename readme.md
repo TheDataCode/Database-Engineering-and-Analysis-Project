@@ -37,9 +37,9 @@ The restaurant currently stores its data in a spreadsheet. With the inclusion of
     [Update Booking](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/storedProcedure-Updates.sql)                  
     [Cancel Orders](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/storedProcedure-Delete_statement.sql) 
     
-    #### Data validation using stored procedures and transactions.                                                                             - verify a booking and decline any reservations for tables that are already booked under another name         
-    
-    [Data Validation using Stored Procedures and Transactions](https://github.com/TheDataCode/Database-Engineering-and-Analysis-Project/blob/a75dde793ce212761858a880ee23074d98096bc7/Stored%20Procedure%20with%20Transactions.sql)                                                                       
+    #### Data validation using stored procedures and transactions                                                                                                                                                         
+       verify a booking and decline any reservations for tables that are already booked under another name         
+   [Data Validation using Stored Procedures and Transactions](https://github.com/TheDataCode/Database-Engineering-and-Analysis-Project/blob/a75dde793ce212761858a880ee23074d98096bc7/Stored%20Procedure%20with%20Transactions.sql)                                                                       
     
  - ### View, Subquery and Join
      [View, Subquery and Join ](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/data_retrieval_scripts.sql)
