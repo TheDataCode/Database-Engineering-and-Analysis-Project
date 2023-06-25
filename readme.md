@@ -35,10 +35,10 @@ The restaurant currently stores its data in a spreadsheet. With the inclusion of
     [Update Booking](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/storedProcedure-Updates.sql)                  
     [Cancel Orders](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/storedProcedure-Delete_statement.sql) 
     
-    #### Data Manipulation with Stored Procedures and Transactions.                                                                                       
-    Data manipulation with stored procedures and transactions in databases provide a structured and controlled approach to database operations, ensuring    data integrity, consistency, and security while promoting code reusability and performance optimisation.
+    #### Data Manipulation using Stored Procedures and Transactions.                                                                                      
+    Data manipulation with stored procedures and transactions in databases provide a structured and controlled approach to database operations, ensuring data integrity, consistency, and security while promoting code reusability and performance optimisation.
     
-    [Data Manipulation with Transactions](https://github.com/TheDataCode/DatabaseCapstoneProject/blob/main/Stored%20Procedure%20with%20Transactions.sql)                                                                       
+    [Data Validation using Stored Procedures Transactions](https://github.com/TheDataCode/Database-Engineering-and-Analysis-Project/blob/a75dde793ce212761858a880ee23074d98096bc7/Stored%20Procedure%20with%20Transactions.sql)                                                                       
     
  - ### View, Subquery and Join
      [View, Subquery and Join ](https://github.com/TheDataCode/Database-Capstone-Project/blob/main/data_retrieval_scripts.sql)
