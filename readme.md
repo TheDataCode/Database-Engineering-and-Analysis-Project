@@ -6,7 +6,7 @@ As part of this project, comprehensive data analysis will be conducted to gain v
 It involves examining various aspects, such as customer demographics, sales trends, order patterns, and preferences.
 
 ### PROBLEM STATEMENT
-The restaurant currently stores its data in a spreadsheet. With the inclusion of online bookings and orders, there is a need to migrate the data to a database management system. This migration is necessary to efficiently streamline operations and accommodate the growing number of customers and online services.
+The restaurant currently stores its data in a spreadsheet. With the inclusion of online bookings and orders, there is a need to migrate the data to a relational database management system. This migration is necessary to efficiently streamline operations and accommodate the growing number of customers and online services.
 
                                                                                                                  
 ### DATABASE DEVELOPMENT AND TESTING
