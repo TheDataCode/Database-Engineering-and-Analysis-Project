@@ -1,12 +1,11 @@
 ## A Restaurant Database Development and Analysis Project
 
 ### INTRODUCTION
-An end-to-end project of developing a centralised relational database to accommodate the increasing demand for both in-person and online transactions across several countries.   
+An end-to-end task of developing a centralised relational database to accommodate the increasing demand for in-person and online transactions across several countries.
+The restaurant currently stores its data in a spreadsheet for each branch. This adoption is necessary to streamline operations management and coordination.
 As part of this project, comprehensive data analysis will be conducted to gain valuable insights from the existing data for each country.      
-It involves examining various aspects, such as customer demographics, sales trends, order patterns, and preferences.
+Factors include customer demographics, sales trends, order patterns, and preferences.
 
-### PROBLEM STATEMENT
-The restaurant currently stores its data in a spreadsheet for each branch. To have a centralised database, there is a need to migrate all data across the various branches to a relational database management system. This migration is necessary to efficiently streamline the management and coordination of operations across multiple branches
                                                                                                                  
 ### DATABASE DEVELOPMENT AND TESTING
 
@@ -62,7 +61,7 @@ Comprehensive data analysis to gain valuable insights from the existing customer
    - Objects
    - Filters
      
-View customer analysis report on [tableau public](https://public.tableau.com/views/RestaurantSalesPerformance/RestaurantSalesPerformance?:language=en-US&:display_count=n&:origin=viz_share_link) <br><br>
+View analysis report on [tableau public](https://public.tableau.com/views/RestaurantSalesPerformance/RestaurantSalesPerformance?:language=en-US&:display_count=n&:origin=viz_share_link) <br><br>
 ![Restaurant Sales Performance](https://github.com/TheDataCode/Database-Engineering-and-Analysis-Project/assets/107037322/8c486e99-4129-4097-8dbf-c97c08921968)
 
 
