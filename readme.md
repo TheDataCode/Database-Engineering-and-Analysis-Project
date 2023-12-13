@@ -1,8 +1,8 @@
 ## A Restaurant Database Development and Analysis Project
 
 ### PROBLEM STATEMENT
-An end-to-end task of developing a centralised relational database to accommodate the increasing demand for in-person and online transactions across several countries.
-The restaurant currently stores its data in a spreadsheet for each branch. This adoption is necessary to streamline operations management and coordination.
+An end-to-end task of developing an Online Transaction Processing database system to accommodate the increasing demand for in-person and online transactions across several countries.
+The restaurant currently stores its data in a spreadsheet for each branch. This adoption is necessary to streamline operations, management and coordination.
 As part of this project, comprehensive data analysis will be conducted to gain valuable insights from the existing data for each country.      
 Factors include customer demographics, sales trends, order patterns, and preferences.
 
