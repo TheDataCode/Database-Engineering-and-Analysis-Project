@@ -1,4 +1,4 @@
-## A Restaurant Database Development and Analysis Project
+## An OLTP Database Design and Analysis Project for a Restaurant
 
 ### PROBLEM STATEMENT
 An end-to-end task of designing and testing an Online Transaction Processing database system to accommodate the increasing demand for in-person and online transactions across several countries.
