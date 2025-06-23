@@ -55,7 +55,7 @@ Factors include customer demographics, sales trends, order patterns, and prefere
 
 ### DATA ANALYSIS 
 Comprehensive data analysis to gain valuable insights from the existing customer data. It involves various aspects, such as sales trends, customer demographics, top-performing customers, order patterns, and preferences. 
-  #### Concepts Applied In Tableau
+  #### Concepts Applied In Tableau.
    - Calculated Fields
    - Actions
    - Objects
